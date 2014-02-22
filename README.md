@@ -1,0 +1,4 @@
+shell
+=====
+
+stuff for bash
